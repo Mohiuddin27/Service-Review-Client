@@ -1,0 +1,18 @@
+.footer{
+    background-color: rgb(16, 16, 16);
+    color:white;
+}
+.facebook{
+    width:100%;
+    color:rgb(5, 67, 147);
+}
+.youtube{
+    color:red;
+}
+.linkedin{
+    color:rgba(7, 64, 144, 0.667);
+}
+.twitter{
+    color:rgb(0, 174, 255);
+   
+}

@@ -1,0 +1,56 @@
+[
+    {
+        
+        "service_id": "04",
+        "title": "Tax Attorney",
+        "img": "https://www.toptaxdefenders.com/hubfs/Depositphotos_147552965_m-2015.jpg",
+        "price": "20.00",
+        "description": "There are several benefits of working with a tax attorney. One of which is that you get the benefit of attorney client privilege and the tax attorney work product privilege. Whatever you tell your tax lawyer can be kept from the revenue agent and the IRS cannot force you to release that information. This also applies to the tax attorney work product privilege, which extends to all of the documents that were produced by your tax attorney or that go back and forth between the tax attorney and client. "
+        
+    },
+    {
+      
+        "service_id": "05",
+        "title": "IRS Audit",
+        "img": "https://www.communitytax.com/wp-content/uploads/2021/08/irs-audit-reconsideration.png",
+        "price": "20.00",
+        "description": "The IRS uses a systematic formula to determine which income tax returns they'll audit. They use your reported amounts on your tax return to calculate a discriminate function score. The score compares your income and expenses that you report on your tax return to other tax payers in a similar profession to determine whether it's likely that you understated income or overstated deductions. The discriminate function score also analyzes your investments, rentals, business, filing status, where you live, and how many people are in your family."
+      
+    },
+    {
+       
+        "service_id": "01",
+        "title": "Tax Fraud and Tax Crimes",
+        "img": "https://thumbs.dreamstime.com/b/documents-tax-fraud-court-documents-tax-fraud-court-123045983.jpg",
+        "price": "200.00",
+        "description": "Tax fraud is where you make fraudulent misrepresentations on your tax return, knowing that they are not correct at the time. Tax fraud is very similar to tax evasion. Tax evasion is the actual crime itself, whereas tax fraud is the allegation by the Internal Revenue Service that you made false representations on your tax return.What constitutes a tax crime is a statement on the tax return that understates the amount of taxable income, or false statements on the tax return."
+        
+    },
+    {
+       
+        "service_id": "02",
+        "title": "Tax Collections",
+        "img": "https://financialgrowthideas.com/wp-content/uploads/2021/12/3-2.jpg",
+        "price": "150.00",
+        "description": "The most important thing in preventing the IRS from tax collections actions is knowing the rules, regulations and procedures that the IRS has to comply with. There are many different rules and regulations that can be used as means to slow down revenue agents and to give you time to pursue other methods of resolving the issue.Generally people are somewhat surprised to find out that they have outstanding tax liabilities. Perhaps they have moved around and the IRS does not know their new address."
+      
+    },
+    {
+       
+        "service_id": "03",
+        "title": "Tax Appeal",
+        "img": "https://riversidetownship.org/wp-content/uploads/2021/12/Tax-Appeals.jpg",
+        "price": "30.00",
+        "description": "In the event you go through an audit and the IRS assesses more tax than you believe is correct, you have the right to appeal that case to an independent IRS appeals officer. That independent IRS tax appeals officer will take a new look at the case and make their own determination as to whether the tax court will agree with the assessment or not.When you are negotiating with a tax appeals officer, what is important is what you think could possibly happen in tax court down the road."
+       
+    },
+    {
+      
+        "service_id": "06",
+        "title": "Tax Litigation",
+        "img": "https://thedailyguardian.com/wp-content/uploads/2020/07/tax.png",
+        "price": "20.00",
+        "description": "Tax litigation applies in the event that you do not resolve your case at the appeals level, you have the right in order to go to trial at the US tax court. There is a calendar call on Monday, they schedule the trial for sometime during that week and we go in to present the case, witnesses are called, evidence is presented and the tax court makes a determination in the case.To best handle an IRS audit, it's imperative we organize all of your canceled checks, credit card statements, cash payments, as well as all of your business receipts for the audit in logical order."
+      
+    }
+]
